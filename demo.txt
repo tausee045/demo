@@ -1,0 +1,1 @@
+I am learning rename and deletion of file  in git.
